@@ -7,3 +7,10 @@
 - Using nerd-fonts and powerlevel1ok
 - Make background of terminal transparent
 - Chaning icons and name of different terminal
+
+
+Resolving the issue of pip not available in wsl and upgrading python version 
+```
+sudo apt-get update
+sudo apt-get install python3-pip
+```
