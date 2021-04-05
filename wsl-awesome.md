@@ -1,5 +1,6 @@
 ## Customize the WSL / WSL2 in windows
 [Best tutorial I found](https://www.the-digital-life.com/awesome-wsl-wsl2-terminal/)
+
 [Setting up Windows Terminal, WSL and Oh-my-Zsh](https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh/#.YGq5OugzZPY)
 
 - Installing windows terminal
