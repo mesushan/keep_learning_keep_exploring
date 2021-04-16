@@ -1,0 +1,4 @@
+jupyterlab
+pip-review
+nb-black
+watermark
